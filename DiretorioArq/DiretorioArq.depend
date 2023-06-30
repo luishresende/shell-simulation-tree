@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1687886695 source:c:\users\iuric\onedrive\Área de trabalho\diretorioarq\diretorioarq.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"DiretorioArq.h"
+
+1687885102 c:\users\iuric\onedrive\Área de trabalho\diretorioarq\diretorioarq.h
+
+1687885090 source:c:\users\iuric\onedrive\Área de trabalho\diretorioarq\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	"DiretorioArq.h"
+
